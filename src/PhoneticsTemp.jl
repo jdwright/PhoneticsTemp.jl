@@ -1,5 +1,6 @@
 module PhoneticsTemp
 
-# Write your package code here.
+export spectrogram_from_path
+include("f.jl")
 
 end
